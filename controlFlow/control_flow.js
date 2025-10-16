@@ -1,3 +1,4 @@
+// if/else structure
 let userRole = "admin";
 let accessLevel;
 
@@ -11,6 +12,7 @@ if (userRole === "admin"){
 
 console.log("Access Level:", accessLevel);
 
+//Nested if
 let isLoggedIn = true;
 let userMessage;
 
@@ -26,6 +28,7 @@ if(isLoggedIn) {
 
 console.log("User Message:", userMessage);
 
+// Switch
 let userType = "subscriber";
 let userCategory;
 
@@ -44,3 +47,9 @@ switch (userType) {
 }
 
 console.log("User Category:", userCategory);
+
+// Ternary Operator
+let isAuthenticated = true;
+let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
+
+console.log("Authentication Status:", authenticationStatus);
