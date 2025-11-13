@@ -1,0 +1,21 @@
+{
+    "articles" : [
+        {
+            "title": "UFO sighted in NY",
+            "description": "An UFO was sighted this morning in the city of New York",
+            "comments": [
+                "'It was terrifying, it passed just above me !'",
+                "'I KNEW THEY EXITED'",
+                "'I didn't see anything'"
+            ]
+        },{
+            "title": "Cure of cancer ?",
+            "description": "A Brazilian doctor claims to have found the cure for cancer",
+            "comments": [
+                "'Let's pray for his safety'",
+                "'I don't believe him'",
+                "'Thanks God for some good news'"
+            ]
+        }
+    ]  
+}
